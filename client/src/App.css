@@ -1,0 +1,41 @@
+hr{
+    position: relative;
+    top: 20px;
+    border: none;   
+    height: 12px;
+    background: black;
+}
+.wait{
+    text-align: center;
+    margin-top: 5rem;
+}
+.container-xl {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+h3, h4 {
+    margin-top: 0;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.col-3, .col-4 {
+    flex: 0 0 32%;
+    max-width: 32%;
+}
+
+.btn {
+    margin-right: 10px;
+}
